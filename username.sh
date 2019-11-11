@@ -10,4 +10,4 @@ do
 	echo "lower case letters (first index mandatory), digits, underscore only- length 3-12: "
 	read NAME
 done
-echo "Thank you"
+echo "Thank you $NAME"
